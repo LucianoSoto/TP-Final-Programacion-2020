@@ -4,3 +4,4 @@ require_once "Config/Config.php";
   session_destroy();
   header("location: ../Views/loginForm.php");
 ?>
+fgsdfgsdfgsdfgsdfg
